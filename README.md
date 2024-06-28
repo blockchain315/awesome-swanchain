@@ -30,6 +30,7 @@ Join our [Discord](https://discord.com/invite/swanchain) if you have questions o
 - [Chatglm3-LLM-6b-Chat](./Chatglm3-LLM-6b-Chat)
 - [Qwen2-LLM-7b](./Qwen2-LLM-7b)
 - [AI-Dalle-4k](AI-Dalle-4k)
+- [AI-Fastapi-gpu](AI-Fastapi-gpu)
 
 
 ### Game - CPU
